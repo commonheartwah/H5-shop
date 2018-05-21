@@ -1,6 +1,6 @@
 # ec-front-project
 
-> A Vue.js project
+> A Vue.js project 静态商城项目
 
 ## Build Setup
 
